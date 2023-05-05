@@ -1,0 +1,6 @@
+[project]
+name = "pre_commit_placeholder_package"
+version = "0.0.0"
+dependencies = [
+    "mkdocs == 1.4.2",
+]
